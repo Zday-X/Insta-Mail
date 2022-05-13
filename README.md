@@ -1,6 +1,9 @@
 # Insta-Mail
 Generate Temporary Mail And Automatically Get OTP For Instagram.
-
+```
+INSTALLATION INSTRUCTION:
+You can download Binary From the release.
+```
 ![image](https://user-images.githubusercontent.com/83881453/168336212-6d3555db-7980-47ed-ae41-50f924aad5da.png)
 
 
